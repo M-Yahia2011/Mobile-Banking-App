@@ -58,7 +58,7 @@ class Trapezoid extends CustomPainter {
     path.moveTo(0, 0);
     path.lineTo(0, size.height);
     // path.quadraticBezierTo(size.width / 1.5, size.height, size.width, 0);
-    path.lineTo(size.width / 2, size.height);
+    path.lineTo(size.width / 2, size.height); 
 
     path.lineTo(size.width, 0);
     path.lineTo(0, 0);

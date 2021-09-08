@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
       title: 'QNB',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-          primaryColor: Color(0xff7b104a),
+          primaryColor: Color(0xff7b104a), 
           textTheme: TextTheme(
               headline3: TextStyle(fontSize: 50, color: Colors.white),
               bodyText2: TextStyle(

@@ -15,7 +15,7 @@ class HomeScreen extends StatelessWidget {
         children: [
           TopLogoBar(),
           Padding(
-            padding: const EdgeInsets.symmetric(vertical: 15),
+            padding: const EdgeInsets.symmetric(vertical: 15), 
             child: Material(
               child: Ink(
                 width: MediaQuery.of(context).size.width * 0.70,

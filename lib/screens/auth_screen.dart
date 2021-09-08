@@ -8,7 +8,7 @@ class AuthScreen extends StatelessWidget {
     return Scaffold(
         body: SafeArea(
       child: InkWell(
-        onTap: () => FocusScope.of(context).unfocus(),
+        onTap: () => FocusScope.of(context).unfocus(), 
         child: Container(
           height: double.infinity,
           width: double.infinity,

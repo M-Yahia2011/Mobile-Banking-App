@@ -5,7 +5,7 @@ class MyColors {
     0xff84004f,
     <int, Color>{
       50: Color(0xFF162A49),
-      100: Color(0xFFDEE5E9),
+      100: Color(0xFFDEE5E9), 
       200: Color(0xFFdcf8c6), 
       300: Color(0xFF25d366), 
       400: Color(0xFF128c7e),
