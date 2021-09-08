@@ -1,2 +1,2 @@
-# Mobile_Banking_Redesign
+# Mobile Banking App
  QNB Mobile Banking redesign.
